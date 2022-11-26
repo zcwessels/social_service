@@ -1,16 +1,2 @@
-# social_service
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Social Service Home Page
+<img width="456" alt="Screenshot 2022-11-26 at 08 56 32" src="https://user-images.githubusercontent.com/31216542/204076477-a3f23bcb-db01-40ea-934c-802d997a576d.png">
